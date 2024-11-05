@@ -1,4 +1,5 @@
 # Git Homepage [![CI](https://github.com/git/git-scm.com/actions/workflows/ci.yml/badge.svg)](https://github.com/git/git-scm.com/actions/workflows/ci.yml) [![Help Contribute to Open Source](https://www.codetriage.com/git/git-scm.com/badges/users.svg)](https://www.codetriage.com/git/git-scm.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fgit-scm.com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fgit-scm.com?ref=badge_shield)
 
 This is the repository for the [git-scm.com](https://git-scm.com) site.  It is meant to be the
 first place a person new to Git will land and download or learn about the
@@ -147,6 +148,9 @@ The [list of GUI clients](https://git-scm.com/downloads/guis) has been construct
     6. `trend_name` is an optional field that can be used for helping sorting the clients.
 
 2. Add the image to `static/images/guis/<GUI_CLIENT_NAME>@2x.png` and `static/images/guis/<GUI_CLIENT_NAME>.png` making sure the aspect ratio matches a 588:332 image.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fgit-scm.com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fgit-scm.com?ref=badge_large)
 
 ## Useful links
 
